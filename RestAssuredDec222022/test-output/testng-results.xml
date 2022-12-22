@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3868" started-at="2022-12-22T11:38:32 IST" finished-at="2022-12-22T11:38:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3868" started-at="2022-12-22T11:38:32 IST" finished-at="2022-12-22T11:38:36 IST">
+      <class name="POST.PostAsMap">
+        <test-method status="PASS" signature="main()[pri:0, instance:POST.PostAsMap@2d6eabae]" name="main" duration-ms="3821" started-at="2022-12-22T11:38:32 IST" finished-at="2022-12-22T11:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- POST.PostAsMap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
